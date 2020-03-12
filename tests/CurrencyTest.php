@@ -110,6 +110,6 @@ class CurrencyTest extends TestCase
         $currency = new Currency();
         $result = $currency->format(100.00, 'pt_BR', $currency->code());
 
-        $this->assertEquals('$100.00', $result);
+        $this->assertEquals('R$100,00', $result);
     }
 }
