@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8" ?>
+<!-- @see https://pt.wikipedia.org/wiki/ISO_4217 -->
 <currencies>
     <currency code="AED" number="784" decimals="2" countries="Emirados Árabes Unidos">Dirham dos Emirados</currency>
     <currency code="AFN" number="971" decimals="2" countries="Afeganistão">Afegane</currency>

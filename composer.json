@@ -2,7 +2,7 @@
   "name": "mrprompt/money",
   "description": "money and currency helper",
   "minimum-stability": "stable",
-  "license": "MIT",
+  "license": "GPL-3.0-or-later",
   "type": "library",
   "authors": [
     {
