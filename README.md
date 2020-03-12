@@ -1,4 +1,5 @@
 # Money
+[![Build Status](https://travis-ci.com/mrprompt/money.svg?branch=master)](https://travis-ci.com/mrprompt/money)
 
 Library to made work with currency and money easy.
 
