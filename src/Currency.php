@@ -6,6 +6,8 @@ use SimpleXMLElement;
 
 final class Currency
 {
+    const XML_PATH = __DIR__ . "/../data/money.xml";
+
     /**
      * @var SimpleXMLElement
      */
@@ -32,7 +34,7 @@ final class Currency
      */
     private function loadCurrenciesDatabase(): SimpleXMLElement
     {
-        return simplexml_load_file(__DIR__ . "/../data/money.xml");
+        return simplexml_load_file(self::XML_PATH);
     }
 
     /**
@@ -90,6 +92,15 @@ final class Currency
     }
 
     /**
+     * Get the symbol used to this actual currency.
+     * @return string
+     */
+    public function symbol(): string
+    {
+        return (string) $this->currency->attributes()['symbol'];
+    }
+
+    /**
      * Get the countries where the actual currency is used.
      * @return array
      */
@@ -115,5 +126,17 @@ final class Currency
         }
 
         return number_format($number, $this->decimals());
+    }
+
+    /**
+     * unused!
+     */
+    private function addAttribute()
+    {
+        foreach ($this->loader as $xml) {
+            $xml->addAttribute('symbol', '');
+        }
+
+        file_put_contents(self::XML_PATH, $this->loader->asXML());
     }
 }

@@ -94,6 +94,17 @@ class CurrencyTest extends TestCase
     /**
      * @test
      */
+    public function symbolReturnString()
+    {
+        $currency = new Currency();
+        $result = $currency->symbol();
+
+        $this->assertEquals('R$', $result);
+    }
+
+    /**
+     * @test
+     */
     public function countriesReturnArray()
     {
         $currency = new Currency();
