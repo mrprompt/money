@@ -107,8 +107,12 @@ class CurrencyTest extends TestCase
      */
     public function formatReturnNumeric()
     {
+        $locale = 'pt_BR';
+
+        setlocale(LC_ALL, $locale);
+
         $currency = new Currency();
-        $result = $currency->format(100.00, 'pt_BR', $currency->code());
+        $result = $currency->format(100.00, $locale, $currency->code());
 
         $this->assertEquals('R$100,00', $result);
     }

@@ -114,6 +114,6 @@ final class Currency
             return numfmt_format_currency($fmt, $number, $currency);
         }
 
-        return money_format('$%.2n', $number);
+        return number_format($number, $this->decimals());
     }
 }
