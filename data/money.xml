@@ -1,184 +1,184 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <!-- @see https://pt.wikipedia.org/wiki/ISO_4217 -->
 <currencies>
-    <currency code="AED" number="784" decimals="2" countries="Emirados Árabes Unidos">Dirham dos Emirados</currency>
-    <currency code="AFN" number="971" decimals="2" countries="Afeganistão">Afegane</currency>
-    <currency code="ALL" number="008" decimals="2" countries="Albânia">Lek</currency>
-    <currency code="AMD" number="051" decimals="0" countries="Armênia">Dram</currency>
-    <currency code="ANG" number="532" decimals="2" countries="Antilhas Holandesas">Florim</currency>
-    <currency code="AOA" number="973" decimals="2" countries="Angola">Kwanza</currency>
-    <currency code="ARS" number="032" decimals="2" countries="Argentina">Peso Argentino</currency>
-    <currency code="AUD" number="036" decimals="2" countries="Austrália, Ilha Christmas, Ilhas Cocos (Keeling), Ilha Heard e Ilhas McDonald, Kiribati, Nauru, Ilha Norfolk, Tuvalu">Dólar australiano</currency>
-    <currency code="AWG" number="533" decimals="2" countries="Aruba">Florim de Aruba</currency>
-    <currency code="AZN" number="944" decimals="2" countries="Azerbaijão">Manat do Azerbaijão</currency>
-    <currency code="BAM" number="977" decimals="2" countries="Bósnia e Herzegovina">Marco convertível</currency>
-    <currency code="BBD" number="052" decimals="2" countries="Barbados">Dólar de Barbados</currency>
-    <currency code="BDT" number="050" decimals="2" countries="Bangladesh">Taka</currency>
-    <currency code="BGN" number="975" decimals="2" countries="Bulgária">Lev búlgaro</currency>
-    <currency code="BHD" number="048" decimals="3" countries="Bahrein">Dinar do Bahrein</currency>
-    <currency code="BIF" number="108" decimals="0" countries="Burundi">Franco do Burundi</currency>
-    <currency code="BMD" number="060" decimals="2" countries="Bermudas">Dólar bermudense</currency>
-    <currency code="BND" number="096" decimals="2" countries="Brunei">Dólar do Brunei</currency>
-    <currency code="BOB" number="068" decimals="2" countries="Bolívia">Boliviano</currency>
-    <currency code="BOV" number="984" decimals="2" countries="Bolívia">Boliviano Mvdol</currency>
-    <currency code="BRL" number="986" decimals="2" countries="Brasil">Real</currency>
-    <currency code="BSD" number="044" decimals="2" countries="Bahamas">Dólar das Bahamas</currency>
-    <currency code="BTN" number="064" decimals="2" countries="Butão">Ngultrum</currency>
-    <currency code="BWP" number="072" decimals="2" countries="Botswana">Pula</currency>
-    <currency code="BYR" number="974" decimals="0" countries="Bielorrússia">Rublo bielorrusso</currency>
-    <currency code="BZD" number="084" decimals="2" countries="Belize">Dólar do Belize</currency>
-    <currency code="CAD" number="124" decimals="2" countries="Canadá">Dólar canadense</currency>
-    <currency code="CDF" number="976" decimals="2" countries="República Democrática do Congo">Franco congolês</currency>
-    <currency code="CHE" number="947" decimals="2" countries="Suíça">WIR euro (moeda complementar)</currency>
-    <currency code="CHF" number="756" decimals="2" countries="Suíça">Franco suíço</currency>
-    <currency code="CHW" number="948" decimals="2" countries="Suíça">WIR franc (moeda complementar)</currency>
-    <currency code="CLF" number="990" decimals="0" countries="Chile">Unidade de Fomento (código de fundos)</currency>
-    <currency code="CLP" number="152" decimals="0" countries="Chile">Peso chileno</currency>
-    <currency code="CNY" number="156" decimals="1" countries="China">Renminbi</currency>
-    <currency code="COP" number="170" decimals="0" countries="Colômbia">Peso colombiano</currency>
-    <currency code="COU" number="970" decimals="2" countries="Colômbia">Unidade de Valor Real</currency>
-    <currency code="CRC" number="188" decimals="2" countries="Costa Rica">Colon da Costa Rica</currency>
-    <currency code="CUC" number="931" decimals="2" countries="Cuba">Peso cubano convertível</currency>
-    <currency code="CUP" number="192" decimals="2" countries="Cuba">Peso cubano</currency>
-    <currency code="CVE" number="132" decimals="0" countries="Cabo Verde Cabo Verde">Escudo cabo-verdiano</currency>
-    <currency code="CZK" number="203" decimals="2" countries="Chéquia">Coroa checa</currency>
-    <currency code="DJF" number="262" decimals="0" countries="Djibouti">Franco do Djibouti</currency>
-    <currency code="DKK" number="208" decimals="2" countries="Dinamarca, incluindo as  Ilhas Feroé,  Gronelândia">Coroa dinamarquesa</currency>
-    <currency code="DOP" number="214" decimals="2" countries="República Dominicana">Peso</currency>
-    <currency code="DZD" number="012" decimals="2" countries="Argélia">Dinar argelino</currency>
-    <currency code="ECS" number="895" decimals="2" countries="Equador">Sucre (O dólar americano USD é a moeda corrente no país)</currency>
-    <currency code="EGP" number="818" decimals="2" countries="Egito">Libra egípcia</currency>
-    <currency code="ERN" number="232" decimals="2" countries="Eritreia">Nakfa</currency>
-    <currency code="ETB" number="230" decimals="2" countries="Etiópia">Birr etíope</currency>
-    <currency code="EUR" number="978" decimals="2" countries="Itália,  Áustria,  Bélgica,  Chipre, Flag of Spain.svg Espanha,  Estónia,  Finlândia,  Alemanha,  Grécia,  Irlanda,  Andorra,  Luxemburgo,  Letônia,  Lituânia,  Malta,  Montenegro,  Mónaco,  Países Baixos, Portugal Portugal,  Eslovênia,  Eslováquia,  San Marino,  França incl. Guadalupe, Martinica, Mayotte, Reunião, Saint Pierre e Miquelon e São Bartolomeu.">Euro</currency>
-    <currency code="FJD" number="242" decimals="2" countries="Fiji">Dólar das Fiji</currency>
-    <currency code="FKP" number="238" decimals="2" countries="Ilhas Malvinas">Libra das Malvinas</currency>
-    <currency code="GBP" number="826" decimals="2" countries="Reino Unido, Ilha de Man, Guernsey, Jersey">Libra Esterlina</currency>
-    <currency code="GEL" number="981" decimals="2" countries="Geórgia">Lari</currency>
-    <currency code="GHS" number="936" decimals="2" countries="Gana">Cedi</currency>
-    <currency code="GIP" number="292" decimals="2" countries="Gibraltar">Libra de Gibraltar</currency>
-    <currency code="GMD" number="270" decimals="2" countries="Gâmbia">Dalasi</currency>
-    <currency code="GNF" number="324" decimals="0" countries="Guiné">Franco da Guiné</currency>
-    <currency code="GTQ" number="320" decimals="2" countries="Guatemala">Quetzal guatemalteco</currency>
-    <currency code="GYD" number="328" decimals="2" countries="Guiana">Dólar da Guiana</currency>
-    <currency code="HKD" number="344" decimals="2" countries="Hong Kong">Dólar de Hong Kong</currency>
-    <currency code="HNL" number="340" decimals="2" countries="Honduras">Lempira</currency>
-    <currency code="HRK" number="191" decimals="2" countries="Croácia">Kuna croata</currency>
-    <currency code="HTG" number="332" decimals="2" countries="Haiti">Gourde</currency>
-    <currency code="HUF" number="348" decimals="2" countries="Hungria">Forint</currency>
-    <currency code="IDR" number="360" decimals="0" countries="Indonésia">Rupia indonésia</currency>
-    <currency code="ILS" number="376" decimals="2" countries="Israel">Shekel</currency>
-    <currency code="INR" number="356" decimals="2" countries="Índia, Butão">Rupia indiana</currency>
-    <currency code="IQD" number="368" decimals="0" countries="Iraque">Dinar iraquiano</currency>
-    <currency code="IRR" number="364" decimals="0" countries="Irão">Rial iraniano</currency>
-    <currency code="ISK" number="352" decimals="0" countries="Islândia">Coroa islandesa</currency>
-    <currency code="JMD" number="388" decimals="2" countries="Jamaica">Dólar jamaicano</currency>
-    <currency code="JOD" number="400" decimals="3" countries="Jordânia">Dinar jordano</currency>
-    <currency code="JPY" number="392" decimals="0" countries="Japão">Iene</currency>
-    <currency code="KES" number="404" decimals="2" countries="Quênia">Xelim queniano</currency>
-    <currency code="KGS" number="417" decimals="2" countries="Quirguistão">Som</currency>
-    <currency code="KHR" number="116" decimals="0" countries="Camboja">Riel</currency>
-    <currency code="KMF" number="174" decimals="0" countries="Comores">Franco comoriano</currency>
-    <currency code="KPW" number="408" decimals="0" countries="Coreia do Norte">Won norte coreano</currency>
-    <currency code="KRW" number="410" decimals="0" countries="Coreia do Sul">Won sul coreano</currency>
-    <currency code="KWD" number="414" decimals="3" countries="Kuwait">Dinar do Kuwait</currency>
-    <currency code="KYD" number="136" decimals="2" countries="Ilhas Cayman">Dólar das Ilhas Cayman</currency>
-    <currency code="KZT" number="398" decimals="2" countries="Cazaquistão">Tenge</currency>
-    <currency code="LAK" number="418" decimals="0" countries="Laos">Kip</currency>
-    <currency code="LBP" number="422" decimals="0" countries="Líbano">Libra libanesa</currency>
-    <currency code="LKR" number="144" decimals="2" countries="Sri Lanka">Rupia do Sri Lanka</currency>
-    <currency code="LRD" number="430" decimals="2" countries="Libéria">Dólar liberiano</currency>
-    <currency code="LSL" number="426" decimals="2" countries="Lesoto">Loti</currency>
-    <currency code="LTL" number="440" decimals="2" countries="Lituânia">Litas</currency>
-    <currency code="LVL" number="428" decimals="2" countries="Letônia">Lats</currency>
-    <currency code="LYD" number="434" decimals="3" countries="Líbia">Dinar líbio</currency>
-    <currency code="MAD" number="504" decimals="2" countries="Marrocos,  Saara Ocidental">Dirham marroquino</currency>
-    <currency code="MDL" number="498" decimals="2" countries="Moldávia">Leu moldávio</currency>
-    <currency code="MGA" number="969" decimals="0" countries="Madagáscar">Ariary</currency>
-    <currency code="MKD" number="807" decimals="2" countries="Macedónia do Norte Macedônia do Norte">Denar</currency>
-    <currency code="MMK" number="104" decimals="0" countries="Mianmar">Kyat</currency>
-    <currency code="MNT" number="496" decimals="2" countries="Mongólia">Tugrik</currency>
-    <currency code="MOP" number="446" decimals="1" countries="Macau Região Administrativa Especial">Pataca</currency>
-    <currency code="MRO" number="478" decimals="0" countries="Mauritânia">Ouguiya</currency>
-    <currency code="MUR" number="480" decimals="2" countries="Maurícia">Rupia mauriciana</currency>
-    <currency code="MVR" number="462" decimals="2" countries="Maldivas">Rufiyaa</currency>
-    <currency code="MWK" number="454" decimals="2" countries="Malawi">Kwacha</currency>
-    <currency code="MXN" number="484" decimals="2" countries="México">Peso mexicano</currency>
-    <currency code="MXV" number="979" decimals="2" countries="México">Unidade Mexicana de Investimento</currency>
-    <currency code="MYR" number="458" decimals="2" countries="Malásia">Ringgit</currency>
-    <currency code="MZN" number="943" decimals="2" countries="Moçambique">Metical</currency>
-    <currency code="NAD" number="516" decimals="2" countries="Namíbia">Dólar da Namíbia</currency>
-    <currency code="NGN" number="566" decimals="2" countries="Nigéria">Naira</currency>
-    <currency code="NIO" number="558" decimals="2" countries="Nicarágua">Cordoba Oro</currency>
-    <currency code="NOK" number="578" decimals="2" countries="Noruega, Ilha Bouvet, Terra da Rainha Maud, Ilha de Pedro I">Coroa norueguesa</currency>
-    <currency code="NPR" number="524" decimals="2" countries="Flag of Nepal.svg Nepal">Rupia nepalesa</currency>
-    <currency code="NZD" number="554" decimals="2" countries="Nova Zelândia, incl.  Ilhas Cook,  Niue,  Pitcairn,  Toquelau">Dólar da Nova Zelândia</currency>
-    <currency code="OMR" number="512" decimals="3" countries="Omã">Rial Omani</currency>
-    <currency code="PAB" number="590" decimals="2" countries="Panamá">Balboa (O dólar americano USD é a moeda corrente no país)</currency>
-    <currency code="PEN" number="604" decimals="2" countries="Peru">Nuevo Sol</currency>
-    <currency code="PGK" number="598" decimals="2" countries="Papua-Nova Guiné">Kina</currency>
-    <currency code="PHP" number="608" decimals="2" countries="Filipinas">Peso filipino</currency>
-    <currency code="PKR" number="586" decimals="2" countries="Paquistão">Rupia paquistanesa</currency>
-    <currency code="PLN" number="985" decimals="2" countries="Polónia">Zloty</currency>
-    <currency code="PYG" number="600" decimals="0" countries="Paraguai">Guarani</currency>
-    <currency code="QAR" number="634" decimals="2" countries="Catar">Rial do Qatar</currency>
-    <currency code="RON" number="946" decimals="2" countries="Roménia">Leu romeno</currency>
-    <currency code="RSD" number="941" decimals="2" countries="Sérvia">Dinar Sérvio</currency>
-    <currency code="RUB" number="643" decimals="2" countries="Rússia, Abkhazia, Ossétia do Sul">Rublo</currency>
-    <currency code="RWF" number="646" decimals="0" countries="Ruanda">Franco do Ruanda</currency>
-    <currency code="SAR" number="682" decimals="2" countries="Arábia Saudita">Riyal</currency>
-    <currency code="SBD" number="090" decimals="2" countries="Ilhas Salomão">Dólar das Ilhas Salomão</currency>
-    <currency code="SCR" number="690" decimals="2" countries="Seicheles">Rupia das Seychelles</currency>
-    <currency code="SDG" number="938" decimals="2" countries="Sudão">Dinar sudanês</currency>
-    <currency code="SEK" number="752" decimals="2" countries="Suécia">Coroa Sueca</currency>
-    <currency code="SGD" number="702" decimals="2" countries="Singapura">Dólar de Singapura</currency>
-    <currency code="SHP" number="654" decimals="2" countries="Santa Helena, Ascensão e Tristão da Cunha">Libra de Santa Helena</currency>
-    <currency code="SLL" number="694" decimals="0" countries="Serra Leoa">Leone</currency>
-    <currency code="SOS" number="706" decimals="2" countries="Somália">Xelim somali</currency>
-    <currency code="SRD" number="968" decimals="2" countries="Suriname">Dólar do Suriname</currency>
-    <currency code="STN" number="930" decimals="2" countries="São Tomé e Príncipe">Dobra</currency>
-    <currency code="SVC" number="222" decimals="?" countries="El Salvador">Colon de El Salvador</currency>
-    <currency code="SYP" number="760" decimals="2" countries="Síria">Libra da Síria</currency>
-    <currency code="SZL" number="748" decimals="2" countries="Essuatíni">Lilangeni</currency>
-    <currency code="THB" number="764" decimals="2" countries="Tailândia">Baht</currency>
-    <currency code="TJS" number="972" decimals="2" countries="Tajiquistão">Somoni</currency>
-    <currency code="TMT" number="934" decimals="2" countries="Turquemenistão">Manat turcomano</currency>
-    <currency code="TND" number="788" decimals="3" countries="Tunísia">Dinar tunisino</currency>
-    <currency code="TOP" number="776" decimals="2" countries="Tonga">Pa'anga</currency>
-    <currency code="TRY" number="949" decimals="2" countries="Turquia">Nova Lira turca</currency>
-    <currency code="TTD" number="780" decimals="2" countries="Trinidad e Tobago">Dólar de Trindade e Tobago</currency>
-    <currency code="TWD" number="901" decimals="1" countries="Taiwan e outras ilhas que estão sob o controle efetivo da República da China (ROC)">Novo dólar de Taiwan</currency>
-    <currency code="TZS" number="834" decimals="2" countries="Tanzânia">Xelim da Tanzânia</currency>
-    <currency code="UAH" number="980" decimals="2" countries="Ucrânia">Grívnia</currency>
-    <currency code="UGX" number="800" decimals="0" countries="Uganda">Xelim ugandês</currency>
-    <currency code="USD" number="840" decimals="2" countries="Estados Unidos e também:  Equador,  El Salvador,  Guam,  Haiti,  Ilhas Marshall,  Estados Federados da Micronésia,  Marianas Setentrionais,  Palau,  Panamá,  Timor-Leste, Flag of the Turks and Caicos Islands.svg Turks e Caicos,  Ilhas Virgens Americanas,  Samoa,  Samoa Americana,  Território Britânico do Oceano Índico">Dólar americano</currency>
-    <currency code="USN" number="997" decimals="2" countries="Estados Unidos">Dólar americano "next day"</currency>
-    <currency code="USS" number="998" decimals="2" countries="Estados Unidos">Dólar americano "same day"</currency>
-    <currency code="UYI" number="940" decimals="?" countries="Uruguai">Peso uruguaio em Unidades Indexadas</currency>
-    <currency code="UYU" number="858" decimals="2" countries="Uruguai">Peso uruguaio</currency>
-    <currency code="UZS" number="860" decimals="2" countries="Uzbequistão">Som uzbeque</currency>
-    <currency code="VES" number="928" decimals="2" countries="Venezuela">bolívar soberano venezuelano</currency>
-    <currency code="VND" number="704" decimals="0" countries="Vietnã">Dong</currency>
-    <currency code="VUV" number="548" decimals="0" countries="Vanuatu">Vatu</currency>
-    <currency code="WST" number="882" decimals="2" countries="Samoa">Tala</currency>
-    <currency code="XAF" number="950" decimals="0" countries="Camarões,  República Centro-Africana,  República do Congo,  Chade,  Guiné Equatorial,  Gabão">Franco CFA central</currency>
-    <currency code="XAG" number="961" decimals="." countries="uma onça Troy">Prata</currency>
-    <currency code="XAU" number="959" decimals="." countries="uma onça Troy">Ouro</currency>
-    <currency code="XBA" number="955" decimals="." countries="">European Composite Unit (EURCO) (unidade de mercado de títulos)</currency>
-    <currency code="XBB" number="956" decimals="." countries="">European Monetary Unit (E.M.U.-6) (unidade de mercado de títulos)</currency>
-    <currency code="XBC" number="957" decimals="." countries="">European Unit of Account 9 (E.U.A.-9) (unidade de mercado de títulos)</currency>
-    <currency code="XBD" number="958" decimals="." countries="">European Unit of Account 17 (E.U.A.-17) (unidade de mercado de títulos)</currency>
-    <currency code="XCD" number="951" decimals="2" countries="Anguilla,  Antígua e Barbuda,  Dominica,  Granada,  Montserrat,  São Cristóvão e Névis,  Santa Lúcia,  São Vicente e Granadinas">Dólar das Caraíbas Orientais</currency>
-    <currency code="XDR" number="960" decimals="." countries="International Monetary Fund">Special Drawing Rights</currency>
-    <currency code="XFU" number="Nil" decimals="." countries="International Union of Railways">UIC franc (moeda de liquidação especial)</currency>
-    <currency code="XOF" number="952" decimals="0" countries="Benim,  Burkina Faso,  Costa do Marfim,  Guiné-Bissau,  Mali,  Níger,  Senegal,  Togo">Franco CFA ocidental</currency>
-    <currency code="XPD" number="964" decimals="." countries="uma onça Troy">Paládio</currency>
-    <currency code="XPF" number="953" decimals="0" countries="Polinésia Francesa,  Nova Caledônia,  Wallis e Futuna">Franco CFP</currency>
-    <currency code="XPT" number="962" decimals="." countries="uma onça Troy">Platina</currency>
-    <currency code="XTS" number="963" decimals="." countries="">Reservado para efeitos de teste</currency>
-    <currency code="XXX" number="999" decimals="." countries="">Sem moeda</currency>
-    <currency code="YER" number="886" decimals="0" countries="Iêmen">Rial iemenita</currency>
-    <currency code="ZAR" number="710" decimals="2" countries="Lesoto,  Namíbia,  África do Sul">Rand</currency>
-    <currency code="ZMW" number="894" decimals="0" countries="Zâmbia">Kwacha</currency>
-    <currency code="ZWL" number="932" decimals="2" countries="Zimbabwe">Dólar zimbabuano</currency>
+    <currency code="AED" number="784" decimals="2" countries="Emirados Árabes Unidos" symbol="">Dirham dos Emirados</currency>
+    <currency code="AFN" number="971" decimals="2" countries="Afeganistão" symbol="؋">Afegane</currency>
+    <currency code="ALL" number="008" decimals="2" countries="Albânia" symbol="Lek">Lek</currency>
+    <currency code="AMD" number="051" decimals="0" countries="Armênia" symbol="">Dram</currency>
+    <currency code="ANG" number="532" decimals="2" countries="Antilhas Holandesas" symbol="ƒ">Florim</currency>
+    <currency code="AOA" number="973" decimals="2" countries="Angola" symbol="">Kwanza</currency>
+    <currency code="ARS" number="032" decimals="2" countries="Argentina" symbol="$">Peso Argentino</currency>
+    <currency code="AUD" number="036" decimals="2" countries="Austrália, Ilha Christmas, Ilhas Cocos (Keeling), Ilha Heard e Ilhas McDonald, Kiribati, Nauru, Ilha Norfolk, Tuvalu" symbol="$">Dólar australiano</currency>
+    <currency code="AWG" number="533" decimals="2" countries="Aruba" symbol="ƒ">Florim de Aruba</currency>
+    <currency code="AZN" number="944" decimals="2" countries="Azerbaijão" symbol="₼">Manat do Azerbaijão</currency>
+    <currency code="BAM" number="977" decimals="2" countries="Bósnia e Herzegovina" symbol="KM">Marco convertível</currency>
+    <currency code="BBD" number="052" decimals="2" countries="Barbados" symbol="$">Dólar de Barbados</currency>
+    <currency code="BDT" number="050" decimals="2" countries="Bangladesh" symbol="">Taka</currency>
+    <currency code="BGN" number="975" decimals="2" countries="Bulgária" symbol="лв">Lev búlgaro</currency>
+    <currency code="BHD" number="048" decimals="3" countries="Bahrein" symbol="">Dinar do Bahrein</currency>
+    <currency code="BIF" number="108" decimals="0" countries="Burundi" symbol="">Franco do Burundi</currency>
+    <currency code="BMD" number="060" decimals="2" countries="Bermudas" symbol="$">Dólar bermudense</currency>
+    <currency code="BND" number="096" decimals="2" countries="Brunei" symbol="$">Dólar do Brunei</currency>
+    <currency code="BOB" number="068" decimals="2" countries="Bolívia" symbol="$b">Boliviano</currency>
+    <currency code="BOV" number="984" decimals="2" countries="Bolívia" symbol="">Boliviano Mvdol</currency>
+    <currency code="BRL" number="986" decimals="2" countries="Brasil" symbol="R$">Real</currency>
+    <currency code="BSD" number="044" decimals="2" countries="Bahamas" symbol="$">Dólar das Bahamas</currency>
+    <currency code="BTN" number="064" decimals="2" countries="Butão" symbol="">Ngultrum</currency>
+    <currency code="BWP" number="072" decimals="2" countries="Botswana" symbol="P">Pula</currency>
+    <currency code="BYR" number="974" decimals="0" countries="Bielorrússia" symbol="">Rublo bielorrusso</currency>
+    <currency code="BZD" number="084" decimals="2" countries="Belize" symbol="BZ$">Dólar do Belize</currency>
+    <currency code="CAD" number="124" decimals="2" countries="Canadá" symbol="$">Dólar canadense</currency>
+    <currency code="CDF" number="976" decimals="2" countries="República Democrática do Congo" symbol="">Franco congolês</currency>
+    <currency code="CHE" number="947" decimals="2" countries="Suíça" symbol="">WIR euro (moeda complementar)</currency>
+    <currency code="CHF" number="756" decimals="2" countries="Suíça" symbol="CHF">Franco suíço</currency>
+    <currency code="CHW" number="948" decimals="2" countries="Suíça" symbol="">WIR franc (moeda complementar)</currency>
+    <currency code="CLF" number="990" decimals="0" countries="Chile" symbol="">Unidade de Fomento (código de fundos)</currency>
+    <currency code="CLP" number="152" decimals="0" countries="Chile" symbol="">Peso chileno</currency>
+    <currency code="CNY" number="156" decimals="1" countries="China" symbol="">Renminbi</currency>
+    <currency code="COP" number="170" decimals="0" countries="Colômbia" symbol="">Peso colombiano</currency>
+    <currency code="COU" number="970" decimals="2" countries="Colômbia" symbol="">Unidade de Valor Real</currency>
+    <currency code="CRC" number="188" decimals="2" countries="Costa Rica" symbol="">Colon da Costa Rica</currency>
+    <currency code="CUC" number="931" decimals="2" countries="Cuba" symbol="">Peso cubano convertível</currency>
+    <currency code="CUP" number="192" decimals="2" countries="Cuba" symbol="">Peso cubano</currency>
+    <currency code="CVE" number="132" decimals="0" countries="Cabo Verde Cabo Verde" symbol="">Escudo cabo-verdiano</currency>
+    <currency code="CZK" number="203" decimals="2" countries="Chéquia" symbol="">Coroa checa</currency>
+    <currency code="DJF" number="262" decimals="0" countries="Djibouti" symbol="">Franco do Djibouti</currency>
+    <currency code="DKK" number="208" decimals="2" countries="Dinamarca, incluindo as  Ilhas Feroé,  Gronelândia" symbol="">Coroa dinamarquesa</currency>
+    <currency code="DOP" number="214" decimals="2" countries="República Dominicana" symbol="">Peso</currency>
+    <currency code="DZD" number="012" decimals="2" countries="Argélia" symbol="">Dinar argelino</currency>
+    <currency code="ECS" number="895" decimals="2" countries="Equador" symbol="">Sucre (O dólar americano USD é a moeda corrente no país)</currency>
+    <currency code="EGP" number="818" decimals="2" countries="Egito" symbol="">Libra egípcia</currency>
+    <currency code="ERN" number="232" decimals="2" countries="Eritreia" symbol="">Nakfa</currency>
+    <currency code="ETB" number="230" decimals="2" countries="Etiópia" symbol="">Birr etíope</currency>
+    <currency code="EUR" number="978" decimals="2" countries="Itália,  Áustria,  Bélgica,  Chipre, Flag of Spain.svg Espanha,  Estónia,  Finlândia,  Alemanha,  Grécia,  Irlanda,  Andorra,  Luxemburgo,  Letônia,  Lituânia,  Malta,  Montenegro,  Mónaco,  Países Baixos, Portugal Portugal,  Eslovênia,  Eslováquia,  San Marino,  França incl. Guadalupe, Martinica, Mayotte, Reunião, Saint Pierre e Miquelon e São Bartolomeu." symbol="">Euro</currency>
+    <currency code="FJD" number="242" decimals="2" countries="Fiji" symbol="">Dólar das Fiji</currency>
+    <currency code="FKP" number="238" decimals="2" countries="Ilhas Malvinas" symbol="">Libra das Malvinas</currency>
+    <currency code="GBP" number="826" decimals="2" countries="Reino Unido, Ilha de Man, Guernsey, Jersey" symbol="£">Libra Esterlina</currency>
+    <currency code="GEL" number="981" decimals="2" countries="Geórgia" symbol="">Lari</currency>
+    <currency code="GHS" number="936" decimals="2" countries="Gana" symbol="">Cedi</currency>
+    <currency code="GIP" number="292" decimals="2" countries="Gibraltar" symbol="">Libra de Gibraltar</currency>
+    <currency code="GMD" number="270" decimals="2" countries="Gâmbia" symbol="">Dalasi</currency>
+    <currency code="GNF" number="324" decimals="0" countries="Guiné" symbol="">Franco da Guiné</currency>
+    <currency code="GTQ" number="320" decimals="2" countries="Guatemala" symbol="">Quetzal guatemalteco</currency>
+    <currency code="GYD" number="328" decimals="2" countries="Guiana" symbol="">Dólar da Guiana</currency>
+    <currency code="HKD" number="344" decimals="2" countries="Hong Kong" symbol="">Dólar de Hong Kong</currency>
+    <currency code="HNL" number="340" decimals="2" countries="Honduras" symbol="">Lempira</currency>
+    <currency code="HRK" number="191" decimals="2" countries="Croácia" symbol="">Kuna croata</currency>
+    <currency code="HTG" number="332" decimals="2" countries="Haiti" symbol="">Gourde</currency>
+    <currency code="HUF" number="348" decimals="2" countries="Hungria" symbol="">Forint</currency>
+    <currency code="IDR" number="360" decimals="0" countries="Indonésia" symbol="">Rupia indonésia</currency>
+    <currency code="ILS" number="376" decimals="2" countries="Israel" symbol="">Shekel</currency>
+    <currency code="INR" number="356" decimals="2" countries="Índia, Butão" symbol="">Rupia indiana</currency>
+    <currency code="IQD" number="368" decimals="0" countries="Iraque" symbol="">Dinar iraquiano</currency>
+    <currency code="IRR" number="364" decimals="0" countries="Irão" symbol="">Rial iraniano</currency>
+    <currency code="ISK" number="352" decimals="0" countries="Islândia" symbol="">Coroa islandesa</currency>
+    <currency code="JMD" number="388" decimals="2" countries="Jamaica" symbol="">Dólar jamaicano</currency>
+    <currency code="JOD" number="400" decimals="3" countries="Jordânia" symbol="">Dinar jordano</currency>
+    <currency code="JPY" number="392" decimals="0" countries="Japão" symbol="">Iene</currency>
+    <currency code="KES" number="404" decimals="2" countries="Quênia" symbol="">Xelim queniano</currency>
+    <currency code="KGS" number="417" decimals="2" countries="Quirguistão" symbol="лв">Som</currency>
+    <currency code="KHR" number="116" decimals="0" countries="Camboja" symbol="៛">Riel</currency>
+    <currency code="KMF" number="174" decimals="0" countries="Comores" symbol="">Franco comoriano</currency>
+    <currency code="KPW" number="408" decimals="0" countries="Coreia do Norte" symbol="₩">Won norte coreano</currency>
+    <currency code="KRW" number="410" decimals="0" countries="Coreia do Sul" symbol="₩">Won sul coreano</currency>
+    <currency code="KWD" number="414" decimals="3" countries="Kuwait" symbol="">Dinar do Kuwait</currency>
+    <currency code="KYD" number="136" decimals="2" countries="Ilhas Cayman" symbol="$">Dólar das Ilhas Cayman</currency>
+    <currency code="KZT" number="398" decimals="2" countries="Cazaquistão" symbol="лв">Tenge</currency>
+    <currency code="LAK" number="418" decimals="0" countries="Laos" symbol="₭">Kip</currency>
+    <currency code="LBP" number="422" decimals="0" countries="Líbano" symbol="£">Libra libanesa</currency>
+    <currency code="LKR" number="144" decimals="2" countries="Sri Lanka" symbol="₨">Rupia do Sri Lanka</currency>
+    <currency code="LRD" number="430" decimals="2" countries="Libéria" symbol="$">Dólar liberiano</currency>
+    <currency code="LSL" number="426" decimals="2" countries="Lesoto" symbol="">Loti</currency>
+    <currency code="LTL" number="440" decimals="2" countries="Lituânia" symbol="">Litas</currency>
+    <currency code="LVL" number="428" decimals="2" countries="Letônia" symbol="">Lats</currency>
+    <currency code="LYD" number="434" decimals="3" countries="Líbia" symbol="">Dinar líbio</currency>
+    <currency code="MAD" number="504" decimals="2" countries="Marrocos,  Saara Ocidental" symbol="">Dirham marroquino</currency>
+    <currency code="MDL" number="498" decimals="2" countries="Moldávia" symbol="">Leu moldávio</currency>
+    <currency code="MGA" number="969" decimals="0" countries="Madagáscar" symbol="">Ariary</currency>
+    <currency code="MKD" number="807" decimals="2" countries="Macedónia do Norte Macedônia do Norte" symbol="ден">Denar</currency>
+    <currency code="MMK" number="104" decimals="0" countries="Mianmar" symbol="">Kyat</currency>
+    <currency code="MNT" number="496" decimals="2" countries="Mongólia" symbol="₮">Tugrik</currency>
+    <currency code="MOP" number="446" decimals="1" countries="Macau Região Administrativa Especial" symbol="">Pataca</currency>
+    <currency code="MRO" number="478" decimals="0" countries="Mauritânia" symbol="">Ouguiya</currency>
+    <currency code="MUR" number="480" decimals="2" countries="Maurícia" symbol="₨">Rupia mauriciana</currency>
+    <currency code="MVR" number="462" decimals="2" countries="Maldivas" symbol="">Rufiyaa</currency>
+    <currency code="MWK" number="454" decimals="2" countries="Malawi" symbol="">Kwacha</currency>
+    <currency code="MXN" number="484" decimals="2" countries="México" symbol="$">Peso mexicano</currency>
+    <currency code="MXV" number="979" decimals="2" countries="México" symbol="">Unidade Mexicana de Investimento</currency>
+    <currency code="MYR" number="458" decimals="2" countries="Malásia" symbol="RM">Ringgit</currency>
+    <currency code="MZN" number="943" decimals="2" countries="Moçambique" symbol="MT">Metical</currency>
+    <currency code="NAD" number="516" decimals="2" countries="Namíbia" symbol="$">Dólar da Namíbia</currency>
+    <currency code="NGN" number="566" decimals="2" countries="Nigéria" symbol="₦">Naira</currency>
+    <currency code="NIO" number="558" decimals="2" countries="Nicarágua" symbol="C$">Cordoba Oro</currency>
+    <currency code="NOK" number="578" decimals="2" countries="Noruega, Ilha Bouvet, Terra da Rainha Maud, Ilha de Pedro I" symbol="kr">Coroa norueguesa</currency>
+    <currency code="NPR" number="524" decimals="2" countries="Flag of Nepal.svg Nepal" symbol="₨">Rupia nepalesa</currency>
+    <currency code="NZD" number="554" decimals="2" countries="Nova Zelândia, incl.  Ilhas Cook,  Niue,  Pitcairn,  Toquelau" symbol="$">Dólar da Nova Zelândia</currency>
+    <currency code="OMR" number="512" decimals="3" countries="Omã" symbol="﷼">Rial Omani</currency>
+    <currency code="PAB" number="590" decimals="2" countries="Panamá" symbol="B/.">Balboa (O dólar americano USD é a moeda corrente no país)</currency>
+    <currency code="PEN" number="604" decimals="2" countries="Peru" symbol="S/.">Nuevo Sol</currency>
+    <currency code="PGK" number="598" decimals="2" countries="Papua-Nova Guiné" symbol="">Kina</currency>
+    <currency code="PHP" number="608" decimals="2" countries="Filipinas" symbol="₱">Peso filipino</currency>
+    <currency code="PKR" number="586" decimals="2" countries="Paquistão" symbol="₨">Rupia paquistanesa</currency>
+    <currency code="PLN" number="985" decimals="2" countries="Polónia" symbol="zł">Zloty</currency>
+    <currency code="PYG" number="600" decimals="0" countries="Paraguai" symbol="Gs">Guarani</currency>
+    <currency code="QAR" number="634" decimals="2" countries="Catar" symbol="﷼">Rial do Qatar</currency>
+    <currency code="RON" number="946" decimals="2" countries="Roménia" symbol="lei">Leu romeno</currency>
+    <currency code="RSD" number="941" decimals="2" countries="Sérvia" symbol="Дин.">Dinar Sérvio</currency>
+    <currency code="RUB" number="643" decimals="2" countries="Rússia, Abkhazia, Ossétia do Sul" symbol="₽">Rublo</currency>
+    <currency code="RWF" number="646" decimals="0" countries="Ruanda" symbol="">Franco do Ruanda</currency>
+    <currency code="SAR" number="682" decimals="2" countries="Arábia Saudita" symbol="﷼">Riyal</currency>
+    <currency code="SBD" number="090" decimals="2" countries="Ilhas Salomão" symbol="$">Dólar das Ilhas Salomão</currency>
+    <currency code="SCR" number="690" decimals="2" countries="Seicheles" symbol="₨">Rupia das Seychelles</currency>
+    <currency code="SDG" number="938" decimals="2" countries="Sudão" symbol="">Dinar sudanês</currency>
+    <currency code="SEK" number="752" decimals="2" countries="Suécia" symbol="kr">Coroa Sueca</currency>
+    <currency code="SGD" number="702" decimals="2" countries="Singapura" symbol="$">Dólar de Singapura</currency>
+    <currency code="SHP" number="654" decimals="2" countries="Santa Helena, Ascensão e Tristão da Cunha" symbol="£">Libra de Santa Helena</currency>
+    <currency code="SLL" number="694" decimals="0" countries="Serra Leoa" symbol="">Leone</currency>
+    <currency code="SOS" number="706" decimals="2" countries="Somália" symbol="S">Xelim somali</currency>
+    <currency code="SRD" number="968" decimals="2" countries="Suriname" symbol="$">Dólar do Suriname</currency>
+    <currency code="STN" number="930" decimals="2" countries="São Tomé e Príncipe" symbol="">Dobra</currency>
+    <currency code="SVC" number="222" decimals="?" countries="El Salvador" symbol="">Colon de El Salvador</currency>
+    <currency code="SYP" number="760" decimals="2" countries="Síria" symbol="£">Libra da Síria</currency>
+    <currency code="SZL" number="748" decimals="2" countries="Essuatíni" symbol="">Lilangeni</currency>
+    <currency code="THB" number="764" decimals="2" countries="Tailândia" symbol="฿">Baht</currency>
+    <currency code="TJS" number="972" decimals="2" countries="Tajiquistão" symbol="">Somoni</currency>
+    <currency code="TMT" number="934" decimals="2" countries="Turquemenistão" symbol="">Manat turcomano</currency>
+    <currency code="TND" number="788" decimals="3" countries="Tunísia" symbol="">Dinar tunisino</currency>
+    <currency code="TOP" number="776" decimals="2" countries="Tonga" symbol="">Pa'anga</currency>
+    <currency code="TRY" number="949" decimals="2" countries="Turquia" symbol="">Nova Lira turca</currency>
+    <currency code="TTD" number="780" decimals="2" countries="Trinidad e Tobago" symbol="TT$">Dólar de Trindade e Tobago</currency>
+    <currency code="TWD" number="901" decimals="1" countries="Taiwan e outras ilhas que estão sob o controle efetivo da República da China (ROC)" symbol="NT$">Novo dólar de Taiwan</currency>
+    <currency code="TZS" number="834" decimals="2" countries="Tanzânia" symbol="">Xelim da Tanzânia</currency>
+    <currency code="UAH" number="980" decimals="2" countries="Ucrânia" symbol="₴">Grívnia</currency>
+    <currency code="UGX" number="800" decimals="0" countries="Uganda" symbol="">Xelim ugandês</currency>
+    <currency code="USD" number="840" decimals="2" countries="Estados Unidos e também:  Equador, El Salvador, Guam, Haiti, Ilhas Marshall, Estados Federados da Micronésia, Marianas Setentrionais, Palau, Panamá, Timor-Leste, Flag of the Turks and Caicos Islands.svg Turks e Caicos, Ilhas Virgens Americanas, Samoa, Samoa Americana, Território Britânico do Oceano Índico" symbol="$">Dólar americano</currency>
+    <currency code="USN" number="997" decimals="2" countries="Estados Unidos" symbol="">Dólar americano "next day"</currency>
+    <currency code="USS" number="998" decimals="2" countries="Estados Unidos" symbol="">Dólar americano "same day"</currency>
+    <currency code="UYI" number="940" decimals="?" countries="Uruguai" symbol="">Peso uruguaio em Unidades Indexadas</currency>
+    <currency code="UYU" number="858" decimals="2" countries="Uruguai" symbol="$U">Peso uruguaio</currency>
+    <currency code="UZS" number="860" decimals="2" countries="Uzbequistão" symbol="лв">Som uzbeque</currency>
+    <currency code="VES" number="928" decimals="2" countries="Venezuela" symbol="">bolívar soberano venezuelano</currency>
+    <currency code="VND" number="704" decimals="0" countries="Vietnã" symbol="₫">Dong</currency>
+    <currency code="VUV" number="548" decimals="0" countries="Vanuatu" symbol="">Vatu</currency>
+    <currency code="WST" number="882" decimals="2" countries="Samoa" symbol="">Tala</currency>
+    <currency code="XAF" number="950" decimals="0" countries="Camarões,  República Centro-Africana,  República do Congo,  Chade,  Guiné Equatorial,  Gabão" symbol="">Franco CFA central</currency>
+    <currency code="XAG" number="961" decimals="." countries="uma onça Troy" symbol="">Prata</currency>
+    <currency code="XAU" number="959" decimals="." countries="uma onça Troy" symbol="">Ouro</currency>
+    <currency code="XBA" number="955" decimals="." countries="" symbol="">European Composite Unit (EURCO) (unidade de mercado de títulos)</currency>
+    <currency code="XBB" number="956" decimals="." countries="" symbol="">European Monetary Unit (E.M.U.-6) (unidade de mercado de títulos)</currency>
+    <currency code="XBC" number="957" decimals="." countries="" symbol="">European Unit of Account 9 (E.U.A.-9) (unidade de mercado de títulos)</currency>
+    <currency code="XBD" number="958" decimals="." countries="" symbol="">European Unit of Account 17 (E.U.A.-17) (unidade de mercado de títulos)</currency>
+    <currency code="XCD" number="951" decimals="2" countries="Anguilla,  Antígua e Barbuda,  Dominica,  Granada,  Montserrat,  São Cristóvão e Névis,  Santa Lúcia,  São Vicente e Granadinas" symbol="">Dólar das Caraíbas Orientais</currency>
+    <currency code="XDR" number="960" decimals="." countries="International Monetary Fund" symbol="">Special Drawing Rights</currency>
+    <currency code="XFU" number="Nil" decimals="." countries="International Union of Railways" symbol="">UIC franc (moeda de liquidação especial)</currency>
+    <currency code="XOF" number="952" decimals="0" countries="Benim,  Burkina Faso,  Costa do Marfim,  Guiné-Bissau,  Mali,  Níger,  Senegal,  Togo" symbol="">Franco CFA ocidental</currency>
+    <currency code="XPD" number="964" decimals="." countries="uma onça Troy" symbol="">Paládio</currency>
+    <currency code="XPF" number="953" decimals="0" countries="Polinésia Francesa,  Nova Caledônia,  Wallis e Futuna" symbol="">Franco CFP</currency>
+    <currency code="XPT" number="962" decimals="." countries="uma onça Troy" symbol="">Platina</currency>
+    <currency code="XTS" number="963" decimals="." countries="" symbol="">Reservado para efeitos de teste</currency>
+    <currency code="XXX" number="999" decimals="." countries="" symbol="">Sem moeda</currency>
+    <currency code="YER" number="886" decimals="0" countries="Iêmen" symbol="﷼">Rial iemenita</currency>
+    <currency code="ZAR" number="710" decimals="2" countries="Lesoto, Namíbia, África do Sul" symbol="R">Rand</currency>
+    <currency code="ZMW" number="894" decimals="0" countries="Zâmbia" symbol="">Kwacha</currency>
+    <currency code="ZWL" number="932" decimals="2" countries="Zimbabwe" symbol="">Dólar zimbabuano</currency>
 </currencies>

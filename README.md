@@ -20,6 +20,7 @@ $money->number(); // return the code as number, like 960.
 $money->name(); // return the currency name, like Real
 $money->countries(); // return the countries that use the currency
 $money->decimals(); // return the decimals used by the currency
+$money->symbol(); // return the symbol of the currency
 $money->format(1.00); // format the currency
 ```
 
